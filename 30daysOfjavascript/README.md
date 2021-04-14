@@ -1,6 +1,6 @@
 # <h1 align="center"> HackerRank Challenges</align>
 
-![](/30daysOfjavascript/30days.png)
+![](/30days.png)
 
 <br />
 
