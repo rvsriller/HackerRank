@@ -1,5 +1,7 @@
 # <h1 align="center"> HackerRank Challenges</align>
 
+![](../30daysOfjavascript/30days.png)
+
 <br />
 
 ### Welcome to 30 days of Javascript
@@ -10,7 +12,7 @@ If you are learning from Hackerrank, do not copy the codes, read the comments ca
 
 <br />
 
-![](30days.png)
+
 
 #### [Day 0: Hello World](day0.js)
 
@@ -23,3 +25,5 @@ Sum of two integer variables, two double variables and concatenation of a string
 #### [Day 2: Operations](day2.js)
 
 Given the meal price, tip percent and tax percent, the final cost is printed.
+
+
