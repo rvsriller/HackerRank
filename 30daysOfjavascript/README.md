@@ -23,3 +23,7 @@ Sum of two integer variables, two double variables and concatenation of a string
 #### [Day 2: Operations](day2.js)
 
 Given the meal price, tip percent and tax percent, the final cost is printed.
+
+#### [Day 3: Conditional Statements](day3.js)
+
+Conditional statements to check if a value is odd or even.
