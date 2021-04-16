@@ -27,3 +27,7 @@ Given the meal price, tip percent and tax percent, the final cost is printed.
 #### [Day 3: Conditional Statements](day3.js)
 
 Conditional statements to check if a value is odd or even.
+
+#### [Day 4: Class and Instance](day4.js) **Interesting Solution**
+
+Class and Instace to check an age and return if a person is young, teenager or old.
