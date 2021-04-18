@@ -24,21 +24,21 @@
 function main() {
     const n = parseInt(readLine(), 10);
 
-    if (n >= 2 && n <= 20){
+    if (n >= 2 && n <= 20){ //If N is between 2 and 20, then its first 10 multiples can be counted
 
-        for(let i = 1; i <= 10; i++){
-            let total = n * i;
-            console.log(`${n} x ${i} = ${total}`);
+        for(let i = 1; i <= 10; i++){ //Counting from 1 to 10
+            let total = n * i; //Multiplying i and getting the result 
+            console.log(`${n} x ${i} = ${total}`); //Showing immediately the result
         }
 
-        /* Or using while loop 
-        let i = 1;
+    /* Or using while loop 
+    let i = 1;
 
-        while(i <= 10){
-            let total = n * i;
-            console.log(`${n} x ${i} = ${total}`);
-            i++;
-        }
-        */
+    while(i <= 10){
+        let total = n * i;
+        console.log(`${n} x ${i} = ${total}`);
+        i++;
+    }
+    */
     }
 }
