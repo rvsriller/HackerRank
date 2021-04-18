@@ -1,5 +1,5 @@
 /**
-    Day 5 - Review 
+    Day 4 - Class and Instance
 
     Task
     Write a Person class with an instance variable, age, and a constructor that takes an integer,
