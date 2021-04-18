@@ -5,7 +5,7 @@
     Write a Person class with an instance variable, age, and a constructor that takes an integer,
     initialAge, as a parameter.
     
-    the constructor must assign initialAge argument to age after confirming the argument passed as 
+    The constructor must assign initialAge argument to age after confirming the argument passed as 
     initialAge is not negative. 
     If a negative is passed as initial Age, the constructor should set age to 0 and print Age is not valid, 
     setting age to 0 and print Age is not valid, setting age to 0..In addition, 
@@ -20,6 +20,7 @@
     If age > 13 and age < 18, print You are a teenager..
 
     Otherwise, print You are old..
+    
  */
 
 
