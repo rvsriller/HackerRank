@@ -1,5 +1,6 @@
 /**
- * Task
+    Day 3 - Conditional Statements
+    Task
     In this challenge, we learn about conditional statements
     
     Given an integer, N, perform the following conditional actions:
