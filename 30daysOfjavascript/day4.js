@@ -1,10 +1,11 @@
 /**
- * Day 5
+    Day 5 - Review 
+
     Task
     Write a Person class with an instance variable, age, and a constructor that takes an integer,
     initialAge, as a parameter.
     
-    he constructor must assign initialAge argument to age after confirming the argument passed as 
+    the constructor must assign initialAge argument to age after confirming the argument passed as 
     initialAge is not negative. 
     If a negative is passed as initial Age, the constructor should set age to 0 and print Age is not valid, 
     setting age to 0 and print Age is not valid, setting age to 0..In addition, 
