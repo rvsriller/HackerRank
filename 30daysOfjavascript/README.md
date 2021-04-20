@@ -1,6 +1,6 @@
 # <h1 align="center"> HackerRank Challenges</align>
 
-![](30days.png)
+![](image.png)
 
 <br />
 
@@ -39,3 +39,25 @@ Using loops to print the first 10 multiples of an integer.
 #### [Day 6: Review](day6.js)
 
 Review: Combining knowledge
+
+<br/>
+
+#### [Day 7: Array](day7.js) **Interesting Solution**
+
+Expanding knowledge of strings, combining it with loops
+
+<br/>
+
+#### [Day 8: Map or Dictionary](day8.js) **Interesting Solution**
+
+<br/>
+
+#### [Day 9: Recursion](day9.js)
+
+<br/>
+
+#### [Day 10: Binary Numbers](day10.js) **Interesting solution**
+
+<br/>
+
+Click here to check up Binary [Tutorial](https://youtu.be/8WW9vdd421s)
