@@ -15,11 +15,11 @@
 
     2. amIOld() should perform the following conditional actions:
 
-    If age < 13 print You are young..
+    - If age < 13 print You are young..
 
-    If age > 13 and age < 18, print You are a teenager..
+    - If age > 13 and age < 18, print You are a teenager..
 
-    Otherwise, print You are old..
+      Otherwise, print You are old..
     
  */
 
