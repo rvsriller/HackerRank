@@ -1,5 +1,7 @@
 /**
- *  Day 6 - In this challenge, we will use loops to do some math
+    Day 5 - Loops
+  
+    In this challenge, we will use loops to do some math
 
     Task
     Given an integer, N, print its first 10 multiples. Each multiple n x i (where i <= n <= 10)
