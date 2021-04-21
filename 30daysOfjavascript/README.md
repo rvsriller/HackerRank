@@ -38,8 +38,8 @@ Using loops to print the first 10 multiples of an integer.
 
 #### [Day 6: Review](day6.js)
 
-Review: Combining knowledge.
+Review: Expanding knowledge of strings, combining it with loops.
 
 #### [Day 7: Array](day7.js) **Interesting Solution**
 
-Expanding knowledge of strings, combining it with loops.
+Array data structure: checking an array and showing its reverse
