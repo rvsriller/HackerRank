@@ -10,6 +10,7 @@
 //Factorial function - recursion
 function factorial(n) {
     
+    //End of recursion: when the integer N is equal to 0 or 1, then it returns 1!
     if(n == 0 || n == 1){
         return 1;
     }else{ 
