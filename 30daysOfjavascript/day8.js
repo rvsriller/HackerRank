@@ -31,3 +31,18 @@ function processData(input) {
     }
     
     
+    
+    // Searching contact in phoneBook
+    for (; i < data.length; i++) {
+        
+        let result = phoneBook[data[i]];
+        
+        console.log( 
+            (result != undefined)
+            ? data[i] + "=" + result
+            : "Not found"
+        );
+        
+    }
+    
+} 
