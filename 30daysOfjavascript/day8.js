@@ -21,3 +21,13 @@ function processData(input) {
     
     // Generate entries with name and phone using index of data array 
     //Considering the contact info is between position 1 and numberOfcontacts 
+    for (i = 1; i <= numberContacts ; i++) {
+        
+        //Separates data info ['name', 'number']
+        let line = data[i].trim().split(" ");
+        
+        //add number to phoneBook name (line[0])  number (line[1])
+        phoneBook[line[0]] = line[1];
+    }
+    
+    
