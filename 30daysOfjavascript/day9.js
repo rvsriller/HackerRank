@@ -7,12 +7,13 @@
 
 */
 
-
+//Factorial function - recursion
 function factorial(n) {
     
     if(n == 0 || n == 1){
         return 1;
-    }else{
+    }else{ 
+        //Calling the same function again (recursion)
         return (n * factorial(n-1));;
     }
     
