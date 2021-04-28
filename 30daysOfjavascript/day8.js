@@ -1,4 +1,6 @@
 /**
+    Day 8 - Map or Dictionary data structure
+
     Today, we're learning about Key-Value pair mappings using a Map or Dictionary data structure
 
     Task
@@ -7,7 +9,6 @@
     entry from your phone book on a new line in the form name=phoneNumber; if an entry for NAME  is not found, print Not found instead. 
 
 */
-
 
 
 function processData(input) {
