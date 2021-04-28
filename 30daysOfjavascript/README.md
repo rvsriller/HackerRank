@@ -42,7 +42,7 @@ Review: Expanding knowledge of strings, combining it with loops.
 
 #### [Day 7: Array](day7.js) **Interesting Solution**
 
-Array data structure: checking an array and showing its reverse
+Array data structure: checking an array and showing its reverse.
 
 #### [Day 8: Map and Dictionary data structure](day8.js) **Interesting Solution**
 
