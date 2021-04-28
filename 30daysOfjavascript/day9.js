@@ -1,12 +1,13 @@
 /*
-Algorithmic concept called recursion using factorial(n)
+    Day 9 - Recursion
+    Algorithmic concept called recursion using factorial(n)
     
     factorial(n) = n * (factorial(n-1));
     5! = 5 x 4 x 3 x 2 x 1 
 
 */
 
-// Complete the factorial function below.
+
 function factorial(n) {
     
     if(n == 0 || n == 1){
@@ -16,8 +17,6 @@ function factorial(n) {
     }
     
 }
-
-
 
 
 function main() {
