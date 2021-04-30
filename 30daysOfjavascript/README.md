@@ -54,4 +54,4 @@ Algorithmic concept called recursion using factorial(n)
 
 #### [Day 10: Binary](day10.js)
 
-Converting integer to Binary and counting a sequence of '1' symbols
+Converting an integer to binary and counting how many '1' symbols are in sequence
