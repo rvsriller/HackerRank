@@ -25,7 +25,28 @@
     console.log(counter);
 */
 
+    //Shorter solution
+    const n = parseInt(readLine(), 10); //Read the number and change it to Integer
 
+    /*
+        Explaning how Math.max.app() works
+        https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/max
+
+        Math.max() returns the bigger number, for example, (20, 30) -> 30 is bigger
+        It is also possible to find it using reduce()
+
+        Math.max.appy() returns the bigger number in an array!
+        In this case, Math.max.apply uses variable(n) as array
+        https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Function/apply
+
+
+        toString(base) allows to convert the string in base 2 - 36 as parameter
+        https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
+
+        Split("0") creates an array and removes symbols 0's of this string (n) ex: 100111 -> [1][1][1][1]
+
+  
+    */    
     
     //calculate maximum number of consecutive 1's in the binary representation of (n)
     let result =  Math.max.apply(null, 
