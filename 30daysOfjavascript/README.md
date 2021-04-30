@@ -51,3 +51,7 @@ Given N names and phone numbers, assemble a phone book that maps friends' names 
 #### [Day 9: Recursion](day9.js)
 
 Algorithmic concept called recursion using factorial(n)
+
+#### [Day 10: Binary](day10.js)
+
+Binary
