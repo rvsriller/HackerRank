@@ -54,3 +54,5 @@
                     split("0"). // Creates an array without "0"s
                     map(x => x.length) //Counts number of "1"s
                   );
+    //Final result
+    console.log(result);  
