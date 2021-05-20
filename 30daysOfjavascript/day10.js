@@ -56,5 +56,5 @@
                   );
 
 
-    //Printing final result!
+    //Printing the final result!
     console.log(result);  
