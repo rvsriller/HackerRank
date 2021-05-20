@@ -26,7 +26,7 @@
 */
 
     //Shorter solution
-    const n = parseInt(readLine(), 10); //Read the number and change it to Integer
+    const n = parseInt(readLine(), 10); //Read the number and change it to an Integer type
 
     /*
         Explaning how Math.max.app() works
