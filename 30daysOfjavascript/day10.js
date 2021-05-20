@@ -1,4 +1,4 @@
-/*  Longest solution
+/*  Longest solution - Step by step
     const n = parseInt(readLine(), 10);    
     let stack = [], reminder = '', counter = 0;
     
