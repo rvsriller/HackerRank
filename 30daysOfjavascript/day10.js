@@ -53,7 +53,7 @@
     let result =  Math.max.apply(null, 
                     n.toString(2). //Converts it to binary
                     split("0"). // Creates an array without "0"s
-                    map(x => x.length) //Counts number of "1"s
+                    map(x => x.length) //Counts the quantity of "1"s
                   );
 
 
