@@ -15,6 +15,7 @@ If you are learning from Hackerrank, do not copy the codes, read the comments ca
 #### [Day 0: Hello World](day0.js)
 
 Saving a line of input from stdin to a variable and printing it as 'Hello, World.'
+</br>
 
 #### [Day 1: Datatypes](day1.js)
 
@@ -35,6 +36,7 @@ Class and Instace to check an age and return if a person is young, teenager or o
 #### [Day 5: Loops](day5.js)
 
 Using loops to print the first 10 multiples of an integer.
+</br>
 
 #### [Day 6: Review](day6.js)
 
@@ -55,3 +57,7 @@ Algorithmic concept called recursion using factorial(n)
 #### [Day 10: Binary](day10.js)
 
 Converting an integer to binary and counting how many '1' symbols are in sequence
+
+#### Starting the second level of Hackerrank Challenges
+
+#### [Day 11: Binary](day11.js)
