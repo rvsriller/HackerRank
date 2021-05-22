@@ -4,7 +4,7 @@
 
 <br />
 
-### Welcome to 30 days of Javascript
+### Welcome to 30 days of Javascript | Challenges
 
 Problems solved by [**Riller Vincci**](https://www.hackerrank.com/rillervincci), exploring [_HackerRank_](https://www.hackerrank.com/) platform to learn and improve programming skills.
 
