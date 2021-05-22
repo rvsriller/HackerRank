@@ -41,6 +41,7 @@ Class and Instace to check an age and return if a person is young, teenager or o
 Using loops to print the first 10 multiples of an integer.
 </br>
 </br>
+</br>
 
 #### [Day 6: Review](day6.js)
 
