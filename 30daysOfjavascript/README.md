@@ -30,6 +30,7 @@ Given the meal price, tip percent and tax percent, the final cost is printed.
 #### [Day 3: Conditional Statements](day3.js)
 
 Conditional statements to check if a value is odd or even.
+</br>
 
 #### [Day 4: Class and Instance](day4.js) **Interesting Solution**
 
