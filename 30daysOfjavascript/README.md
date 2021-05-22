@@ -45,6 +45,7 @@ Using loops to print the first 10 multiples of an integer.
 #### [Day 6: Review](day6.js)
 
 Review: Expanding knowledge of strings, combining it with loops.
+</br>
 
 #### [Day 7: Array](day7.js) **Interesting Solution**
 
