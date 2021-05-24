@@ -65,6 +65,9 @@ Algorithmic concept called recursion using factorial(n)
 
 Converting an integer to binary and counting how many '1' symbols are in sequence
 
+</br>
+</br>
+
 #### Starting the second level of Hackerrank Challenges
 
 #### [Day 11: Binary](day11.js)
