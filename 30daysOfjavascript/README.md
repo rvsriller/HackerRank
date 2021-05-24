@@ -16,7 +16,7 @@ If you are learning from Hackerrank, do not copy the codes, read the comments ca
 #### [Day 0: Hello World](day0.js)
 
 Saving a line of input from stdin to a variable and printing it as 'Hello, World.'
-</br>
+<br />
 
 #### [Day 1: Datatypes](day1.js)
 
